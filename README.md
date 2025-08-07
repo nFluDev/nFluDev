@@ -10,6 +10,22 @@
 
 ---
 
+### ✨ Öne Çıkan Projelerim
+
+<div align="center">
+  <a href="https://github.com/nFluDev/RepoAdı1" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nFluDev&repo=RepoAdı1&theme=dark" alt="RepoAdı1">
+  </a>
+  <a href="https://github.com/nFluDev/RepoAdı2" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nFluDev&repo=RepoAdı2&theme=dark" alt="RepoAdı2">
+  </a>
+  <a href="https://github.com/nFluDev/RepoAdı3" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nFluDev&repo=RepoAdı3&theme=dark" alt="RepoAdı3">
+  </a>
+</div>
+
+---
+
 ### 🚀 Hakkımda
 
 Selamlar! Ben **nFlu**, tutkuyla kod yazan ve yeni teknolojileri keşfetmekten keyif alan bir geliştiriciyim. Özellikle kullanıcı deneyimini merkeze alan estetik ve fonksiyonel projeler geliştirmeye odaklanıyorum. Bilgisayar bilimleri dünyasında kendimi sürekli geliştirmeye devam ediyorum.
@@ -27,7 +43,7 @@ Selamlar! Ben **nFlu**, tutkuyla kod yazan ve yeni teknolojileri keşfetmekten k
   <p><b>Frameworkler & Kütüphaneler:</b></p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="Electron">
+  <img src="https://img.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="Electron">
   <br>
   <p><b>Diğerleri:</b></p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -36,11 +52,24 @@ Selamlar! Ben **nFlu**, tutkuyla kod yazan ve yeni teknolojileri keşfetmekten k
 
 ---
 
-### 🌱 Şu Anda Üzerinde Çalıştıklarım
+### 📊 GitHub İstatistiklerim
 
-- UI/UX tasarım becerilerimi geliştirmek.
-- Açık kaynak projelere daha fazla katkıda bulunmak.
-- Yeni bir React projesi üzerinde çalışıyorum.
+<div align="center">
+  <a href="https://github.com/nFluDev">
+    <img src="https://github-readme-stats.vercel.app/api?username=nFluDev&show_icons=true&theme=dark" alt="GitHub İstatistikleri" width="450" />
+  </a>
+  <a href="https://github.com/nFluDev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nFluDev&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" width="450" />
+  </a>
+  <br/>
+  <br/>
+  <a href="https://github.com/nFluDev">
+    <img src="https://github-profile-trophy.vercel.app/?username=nFluDev&theme=radical" alt="GitHub Kupası" width="450"/>
+  </a>
+  <a href="https://github.com/nFluDev">
+    <img src="https://streak-stats.demolab.com/?user=nFluDev&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Seri İstatistikleri" width="450"/>
+  </a>
+</div>
 
 ---
 
@@ -49,32 +78,6 @@ Selamlar! Ben **nFlu**, tutkuyla kod yazan ve yeni teknolojileri keşfetmekten k
 <div align="center">
   <a href="mailto:admin@nflu.dev" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</div>
-
----
-
-### ✨ GitHub Aktivitem
-
-<div align="center">
-  <a href="https://github.com/nfluDev">
-    <img src="https://github-readme-stats.vercel.app/api?username=nfluDev&show_icons=true&theme=dark" alt="GitHub İstatistikleri" width="450" />
-  </a>
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=nfluDev&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Seri İstatistikleri" width="450" />
-</div>
-
-<br>
-<hr>
-
-### 📊 GitHub İstatistiklerim
-
-<div align="center">
-  <a href="https://github.com/nfluDev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfluDev&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" width="400" />
-  </a>
-  <a href="https://github.com/nfluDev">
-    <img src="https://github-profile-trophy.vercel.app/?username=nfluDev&theme=radical" alt="GitHub Kupası" width="400"/>
   </a>
 </div>
 
