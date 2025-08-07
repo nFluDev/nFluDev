@@ -61,32 +61,27 @@ Selamlar! Ben **nFlu**, tutkuyla kod yazan ve yeni teknolojileri keşfetmekten k
 
 ---
 
+### ✨ GitHub Aktivitem
+
+<div align="center">
+  <a href="https://github.com/nfluDev">
+    <img src="https://github-readme-stats.vercel.app/api?username=nfluDev&show_icons=true&theme=dark" alt="GitHub İstatistikleri" width="450" />
+  </a>
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=nfluDev&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Seri İstatistikleri" width="450" />
+</div>
+
+<br>
+<hr>
+
 ### 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <a href="https://github.com/nFluDev">
-    <img src="https://github-readme-stats.vercel.app/api?username=nFluDev&show_icons=true&theme=dark" alt="GitHub İstatistikleri" width="450" />
+  <a href="https://github.com/nfluDev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfluDev&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" width="400" />
   </a>
-  <a href="https://github.com/nFluDev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nFluDev&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" width="450" />
-  </a>
-  <br/>
-  <br/>
-  <a href="https://github.com/nFluDev">
-    <img src="https://github-profile-trophy.vercel.app/?username=nFluDev&theme=radical" alt="GitHub Kupası" width="450"/>
-  </a>
-  <a href="https://github.com/nFluDev">
-    <img src="https://streak-stats.demolab.com/?user=nFluDev&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Seri İstatistikleri" width="450"/>
-  </a>
-</div>
-
----
-
-### 📫 Bana Ulaşın
-
-<div align="center">
-  <a href="mailto:admin@nflu.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="https://github.com/nfluDev">
+    <img src="https://github-profile-trophy.vercel.app/?username=nfluDev&theme=radical" alt="GitHub Kupası" width="400"/>
   </a>
 </div>
 
