@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
   <br>
   <h1>Profilime Hoş Geldiniz! 👋</h1>
   <p>
@@ -14,13 +14,22 @@
 
 <div align="center">
   <a href="https://github.com/nFluDev/RepoAdı1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nFluDev&repo=RepoAdı1&theme=dark" alt="RepoAdı1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nFluDev&repo=excel-to-web&theme=dark" alt="RepoAdı1">
   </a>
   <a href="https://github.com/nFluDev/RepoAdı2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nFluDev&repo=RepoAdı2&theme=dark" alt="RepoAdı2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nFluDev&repo=Colab-Fine-Tuning-Script&theme=dark" alt="RepoAdı2">
   </a>
   <a href="https://github.com/nFluDev/RepoAdı3" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nFluDev&repo=RepoAdı3&theme=dark" alt="RepoAdı3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nFluDev&repo=SpoofDPI-Turkiye-macOS-Extended&theme=dark" alt="RepoAdı3">
+  </a>
+  <a href="https://github.com/nFluDev/RepoAdı1" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nFluDev&repo=VSCode-Snippet-Pro&theme=dark" alt="RepoAdı1">
+  </a>
+  <a href="https://github.com/nFluDev/RepoAdı2" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nFluDev&repo=odern-Web-Style-Base&theme=dark" alt="RepoAdı2">
+  </a>
+  <a href="https://github.com/nFluDev/RepoAdı3" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nFluDev&repo=CSGO-Plugins&theme=dark" alt="RepoAdı3">
   </a>
 </div>
 
