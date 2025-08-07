@@ -80,6 +80,7 @@ Selamlar! Ben **nFlu**, tutkuyla kod yazan ve yeni teknolojileri keşfetmekten k
   <a href="https://github.com/nfluDev">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfluDev&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" width="400" />
   </a>
+  <br>
   <a href="https://github.com/nfluDev">
     <img src="https://github-profile-trophy.vercel.app/?username=nfluDev&theme=radical" alt="GitHub Kupası" width="400"/>
   </a>
