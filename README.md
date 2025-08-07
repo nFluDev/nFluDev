@@ -26,7 +26,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nFluDev&repo=VSCode-Snippet-Pro&theme=dark" alt="RepoAdı1">
   </a>
   <a href="https://github.com/nFluDev/RepoAdı2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nFluDev&repo=odern-Web-Style-Base&theme=dark" alt="RepoAdı2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nFluDev&repo=Modern-Web-Style-Base&theme=dark" alt="RepoAdı2">
   </a>
   <a href="https://github.com/nFluDev/RepoAdı3" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nFluDev&repo=CSGO-Plugins&theme=dark" alt="RepoAdı3">
